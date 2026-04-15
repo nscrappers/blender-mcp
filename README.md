@@ -78,8 +78,4 @@ Otherwise installation instructions are on their website: [Install uv](https://d
 
 **⚠️ Do not proceed before installing UV**
 
-> **Personal note:** I also found it helpful to run `uv self update` after installing to make sure you have the latest version before setting up the MCP server.
-
-### Environment Variables
-
-The following environment variables can be used to configure the Blend
+> **Personal note:** I also found it helpful to run `uv self update` after installing to make sure you have the latest version. On Windows, I also had to restart my terminal (not just Claude Desktop) before `uv` was recognized on the PATH.
